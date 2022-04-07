@@ -1,0 +1,19 @@
+.app {
+  &__container {
+    display: flex;
+  }
+  &__list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  &__list-container {
+    flex-grow: 1;
+    padding: 20px;
+  }
+  &__bottom-caption {
+    margin-top: 20px;
+    text-align: right;
+  }
+}

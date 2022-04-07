@@ -1,0 +1,23 @@
+.card {
+    padding: 10px;
+    background: #f3f3f3;
+    border-radius: 8px;
+    max-width: 420px;
+    &__line {
+        display: flex;
+        gap: 10px;
+        &:not(:last-child) {
+            margin-bottom: 10px;
+        }
+    }
+    &__line-title {
+        color: #a3a3a3;
+    }
+    &__link {
+        margin-left: auto;
+        font-size: 0.75rem;
+        line-height: 14px;
+        color: #4b51ef;
+        text-decoration: none;
+    }
+}

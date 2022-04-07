@@ -1,0 +1,15 @@
+.aside {
+  background: #BDBDBD;
+  padding: 20px;
+  flex-basis: 15%;
+  &__title {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+  }
+  &__button {
+    display: block;
+    &:not(:last-child) {
+      margin-bottom: 20px;
+    }
+  }
+}
