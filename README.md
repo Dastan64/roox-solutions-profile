@@ -1,4 +1,4 @@
-# Тестовое задание для соискателя на должность frontend-разработчика
+# Тестовое задание для соискателя на должность frontend-разработчика от компании RooX Solutions (лежит [в открытом доступе](https://github.com/Hexlet/ru-test-assignments))
 
 Данные пользователей: [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
 
