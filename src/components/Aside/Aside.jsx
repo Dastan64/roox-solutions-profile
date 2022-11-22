@@ -1,8 +1,8 @@
 import React from 'react';
-import Button from "../../UI/Button/Button";
-import "./Aside.scss"
+import Button from '../../UI/Button/Button';
+import './Aside.scss'
 
-const Aside = ({users, setUsers}) => {
+const Aside = ({ users, setUsers }) => {
 
     function sortByCity() {
         const sortedUsers = [...users].sort((a, b) => {
